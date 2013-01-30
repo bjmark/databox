@@ -1,12 +1,9 @@
 class DataBox
-  def initialize(name)
-    @name = name
+  def initialize(category)
+    @cat = category
   end
 
-  def create_table
-    @table = {}
-    @table[:content] = a
-    @table[[:search] = b
+  def save
   end
 
   def search(cond*)
